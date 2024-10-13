@@ -59,6 +59,7 @@ module.exports = {
 			DEFAULT: "hsl(var(--card))",
 			foreground: "hsl(var(--card-foreground))",
 		  },
+		  oblack: 'hsl(var(--background))',
 		  custom: {
 			  'brass': '#FFA45E',
 		'violet': '#262254',
